@@ -19,6 +19,11 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ```sh
 npm install
 ```
+npm install spark-md5
+npm install axios-extra
+npm install vue-router
+npm install promise-queue-plus
+
 
 ### Compile and Hot-Reload for Development
 
